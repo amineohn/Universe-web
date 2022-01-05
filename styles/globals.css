@@ -4,7 +4,7 @@ body {
 }
 
 body {
-  @apply bg-white dark:bg-indigo-900;
+  @apply bg-black;
 }
 
 a {
